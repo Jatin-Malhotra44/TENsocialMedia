@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TENsocialMedia/static/css/main.1ee5228a.chunk.css",
+    "main.js": "/TENsocialMedia/static/js/main.2c829f1d.chunk.js",
+    "main.js.map": "/TENsocialMedia/static/js/main.2c829f1d.chunk.js.map",
+    "runtime-main.js": "/TENsocialMedia/static/js/runtime-main.fc93d18e.js",
+    "runtime-main.js.map": "/TENsocialMedia/static/js/runtime-main.fc93d18e.js.map",
+    "static/js/2.772e0023.chunk.js": "/TENsocialMedia/static/js/2.772e0023.chunk.js",
+    "static/js/2.772e0023.chunk.js.map": "/TENsocialMedia/static/js/2.772e0023.chunk.js.map",
+    "index.html": "/TENsocialMedia/index.html",
+    "precache-manifest.1a999fb1b0b681e588250ff3be3b7fc1.js": "/TENsocialMedia/precache-manifest.1a999fb1b0b681e588250ff3be3b7fc1.js",
+    "service-worker.js": "/TENsocialMedia/service-worker.js",
+    "static/css/main.1ee5228a.chunk.css.map": "/TENsocialMedia/static/css/main.1ee5228a.chunk.css.map",
+    "static/js/2.772e0023.chunk.js.LICENSE.txt": "/TENsocialMedia/static/js/2.772e0023.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc93d18e.js",
+    "static/js/2.772e0023.chunk.js",
+    "static/css/main.1ee5228a.chunk.css",
+    "static/js/main.2c829f1d.chunk.js"
+  ]
+}
